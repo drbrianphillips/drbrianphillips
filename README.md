@@ -1,16 +1,20 @@
-## Hi there 👋
+# Brian D. Phillips, PhD, EI
 
-<!--
-**drbrianphillips/drbrianphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consulting engineer and researcher specializing in hydrological modeling, 
+agricultural drainage, wetland hydrology, and GIS-based spatial analysis.
 
-Here are some ideas to get you started:
+## Areas of Practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DRAINMOD hydrological modeling
+- Wetland hydrology and jurisdictional determinations
+- Agricultural drainage design and analysis
+- Expert witness — federal litigation
+- GIS and spatial analysis
+
+## Public Software
+
+- **DRAINMOD 7** — [drainmod-ncsu](https://github.com/drainmod)
+
+## Contact
+
+[phillips-rc.com](https://phillips-rc.com) | brian.phillips@phillips-rc.com
