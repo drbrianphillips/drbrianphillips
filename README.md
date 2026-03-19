@@ -3,6 +3,10 @@
 **Phillips Research & Consulting**  
 [phillips-rc.com](https://phillips-rc.com) | brian.phillips@phillips-rc.com
 
+> Most active work is maintained in private repositories. Public activity metrics 
+> and contribution history on this profile do not reflect the full scope of work 
+> conducted through Phillips Research & Consulting.
+
 ---
 
 ## About
@@ -13,7 +17,6 @@ statistical analysis. We serve clients across engineering, research, environment
 agricultural, and legal industries, combining industry-standard tools with 
 custom-developed software to meet project-specific needs.
 
----
 
 ## Expertise
 
@@ -47,11 +50,11 @@ maintainability in mind.
 Technical analysis and testimony in support of federal litigation involving 
 hydrology, drainage, and wetland determinations.
 
-## Public Software
+
+## Publicly Available Software
 
 - **DRAINMOD 7** — [drainmod-ncsu](https://github.com/drainmod)
 
----
 
 ## Client Confidentiality & Data Security
 
@@ -61,6 +64,7 @@ orders. Role-based access controls, encrypted systems, and backup and disaster
 recovery procedures are employed across all projects. Data handling practices can 
 be structured consistent with federal security standards including FedRAMP-compliant 
 environments where required.
+
 
 ## Contact
 
